@@ -157,7 +157,7 @@ const SearchMissingPerson = () => {
   const filteredResults = filterData(searchResults);
 
   return (
-    <section className="py-8 sm:py-12 bg-gray-50">
+    <section className="py-8 sm:py-12 bg-gray-50 mt-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Search Header */}
         <div className="mb-6 sm:mb-8">
