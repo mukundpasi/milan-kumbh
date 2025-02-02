@@ -30,9 +30,9 @@ const Header = () => {
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-8">
             <NavLink href="/">Home</NavLink>
-            <NavLink href="/report">Report Missing</NavLink>
-            <NavLink href="/search">Search</NavLink>
-            <NavLink href="/emergency">Emergency</NavLink>
+            <NavLink href="/report-missing-person">Report Missing</NavLink>
+            <NavLink href="/search-missing-person">Search</NavLink>
+            <NavLink href="/emergency-contacts">Emergency</NavLink>
           </div>
 
           {/* Language and Mobile Menu */}
