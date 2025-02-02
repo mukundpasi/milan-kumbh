@@ -61,9 +61,9 @@ const Header = () => {
           <div className="md:hidden py-4 border-t">
             <div className="flex flex-col gap-4">
               <MobileNavLink href="/">Home</MobileNavLink>
-              <MobileNavLink href="/report">Report Missing</MobileNavLink>
-              <MobileNavLink href="/search">Search</MobileNavLink>
-              <MobileNavLink href="/emergency">Emergency</MobileNavLink>
+              <MobileNavLink href="/report-missing-person">Report Missing</MobileNavLink>
+              <MobileNavLink href="/search-missing-person">Search</MobileNavLink>
+              <MobileNavLink href="/emergency-contacts">Emergency</MobileNavLink>
             </div>
           </div>
         )}
